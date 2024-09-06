@@ -4,3 +4,7 @@ Anime Wonderland is a responsive website . You can explore Alot of anime and the
 
 
 ![Screenshot 2024-09-07 013920](https://github.com/user-attachments/assets/824a40b7-f545-46b1-bfe8-2814fd3d0688)
+
+
+
+![Screenshot 2024-09-07 013901](https://github.com/user-attachments/assets/caf4e023-c78f-49e5-bf69-4e8c8e3de0cf)
